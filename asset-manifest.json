@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/spotify-sync/static/js/main.e1f3ca5b.js",
+    "main.js": "/spotify-sync/static/js/main.031c4f6d.js",
     "index.html": "/spotify-sync/index.html",
-    "main.e1f3ca5b.js.map": "/spotify-sync/static/js/main.e1f3ca5b.js.map"
+    "main.031c4f6d.js.map": "/spotify-sync/static/js/main.031c4f6d.js.map"
   },
   "entrypoints": [
-    "static/js/main.e1f3ca5b.js"
+    "static/js/main.031c4f6d.js"
   ]
 }
